@@ -1,0 +1,9 @@
+body {
+  background-image: radial-gradient(circle, #2b1f4d, #2d193e, #2b1430, #271024, #200d1a)!important;
+  background-position: center top;
+  background-size: cover; /* Para cubrir toda la página */
+  height: 100vh;
+  width: 100%; /* Cambiado a 100vh para ocupar toda la altura de la ventana */
+  margin: 0; /* Elimina el margen predeterminado del cuerpo */
+  padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+}
