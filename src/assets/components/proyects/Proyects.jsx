@@ -1,5 +1,8 @@
 import React from 'react'
 import { Divider } from '@chakra-ui/react'
+import spotify from '../../img/spotify.webp'
+import x from '../../img/twitter.webp'
+
 
 const Proyects = () => {
 
@@ -8,15 +11,14 @@ const Proyects = () => {
             title: 'Clon de Spotify',
             description: 'Maquetación para tamaño escritorio',
             description2: 'Maquetación de la página principal del Streaming de Música Spotify hechas desde cero usando Javascript / ReactJs / TailwindCSS / MaterialUI para el lardo del FrontEnd, esta maquetación funciona solo para tamaños de Escritorio.',
-            urlImg: '/img/spotify.webp',
-            href: 'https://spotify-smoky-ten.vercel.app/',
+            urlImg: spotify,
             scripts: 'React / MaterialUI / TailwindCSS'
         },
         {
             title: 'Clon de X',
             description: 'Maquetación Responsive',
             description2: 'Maquetación hecha de la red social X hecha desde cero totalmente responsive para diferentes dispositivos, este clon de X cuenta con las tecnologías de JavaScript / ReactJs / ChakraUI',
-            urlImg: '/img/twitter.webp',
+            urlImg: x,
             href: 'https://twitter-wheat-two.vercel.app/',
             scripts: 'React / ChakraUI / TailwindCSS'
         }
