@@ -8,7 +8,7 @@ const Proyects = () => {
             title: 'Clon de Spotify',
             description: 'Maquetación para tamaño escritorio',
             description2: 'Maquetación de la página principal del Streaming de Música Spotify hechas desde cero usando Javascript / ReactJs / TailwindCSS / MaterialUI para el lardo del FrontEnd, esta maquetación funciona solo para tamaños de Escritorio.',
-            urlImg: 'src/assets/img/spotify.webp',
+            urlImg: '/img/spotify.webp',
             href: 'https://spotify-smoky-ten.vercel.app/',
             scripts: 'React / MaterialUI / TailwindCSS'
         },
@@ -16,7 +16,7 @@ const Proyects = () => {
             title: 'Clon de X',
             description: 'Maquetación Responsive',
             description2: 'Maquetación hecha de la red social X hecha desde cero totalmente responsive para diferentes dispositivos, este clon de X cuenta con las tecnologías de JavaScript / ReactJs / ChakraUI',
-            urlImg: 'src/assets/img/twitter.webp',
+            urlImg: '/img/twitter.webp',
             href: 'https://twitter-wheat-two.vercel.app/',
             scripts: 'React / ChakraUI / TailwindCSS'
         }
