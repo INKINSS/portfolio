@@ -12,6 +12,7 @@ const Proyects = () => {
             description: 'Maquetación para tamaño escritorio',
             description2: 'Maquetación de la página principal del Streaming de Música Spotify hechas desde cero usando Javascript / ReactJs / TailwindCSS / MaterialUI para el lardo del FrontEnd, esta maquetación funciona solo para tamaños de Escritorio.',
             urlImg: spotify,
+            href: 'https://spotify-smoky-ten.vercel.app/',
             scripts: 'React / MaterialUI / TailwindCSS'
         },
         {
